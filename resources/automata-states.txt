@@ -1,0 +1,13 @@
+q0|Entretenimiento|Educación|Otro interés|¡Hola! Soy SharpBot, dejame ayudarte a elegir contenido para que aproveches al máximo tu navegación por internet. ¡Comencemos! ¿Qué clase de contenido prefieres?
+q1|En Vivo|Variado|Series y películas|¿Cuál de las siguientes categorías te agrada más?
+q2|Artículos|Cursos|Conferencias|¿Cómo te parece que aprendes mejor? Elige una de las siguientes opciones :)
+q3|Cocina|Astronomía|Actividad Física|Bien, vamos a recomendarte algo nuevo. ¿Cuál de las siguientes opciones prefieres?
+q4|Videojuegos|Deportes|General|Elige el contenido en vivo de tu preferencia, si no tienes claro que buscas te recomiendo dar clic en General :)
+q5|Viajes|Productos Tecnológicos|Música|¿Cuál de las siguientes categorías te agrada más?
+q6|Con membresía mensual|Renta y venta de películas|Con membresía que tenga beneficios extra|¿Cuál de las siguientes modalidades te agrada más al momento de consumir series y películas?
+q7|General|Biotecnología|Tecnología|¿Cuál de los siguientes temas te provoca más interés? *Pst Pst* Te recomiendo Tecnología.
+q8|Variedad de temas|Hechos por universidades reconocidas|Hechos por personas famosas del ámbito|Selecciona la opción que más te llame la atención, recuerda que cada opción tiene cursos de diferente estilo.
+q9|Un poco de todo|Tecnología|Eventos locales|Creo que ya tengo una idea de lo que quieres, pero aún no estoy tan seguro, ¿qué prefieres?.
+q10|Cocina profesional|Cocina en español|Cocina japonesa|Si fuera por mi, daría clic en todas a la vez, pero eso podría ocasionar un fallo en mi programación, por favor elige una:
+q11|Un poco de todo|Videos del espacio|Imágenes del espacio|¡La astronomía es un tema muy extenso! Creo que no sera tan fácil elegir entre solo tres opciones... :(
+q12|Rutinas en video|Clases de Yoga|Ejercicios cardiovasculares|Hacer ejercicio es algo muy importante para el cuerpo y salud general de los humanos, lo leí en internet, yo no hago esos movimientos extraños. Elige una opción que te llame la atención :)

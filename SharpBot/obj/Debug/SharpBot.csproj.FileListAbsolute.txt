@@ -1,0 +1,10 @@
+C:\Users\SantiagoValle\source\repos\SharpBot\SharpBot\bin\Debug\SharpBot.exe.config
+C:\Users\SantiagoValle\source\repos\SharpBot\SharpBot\bin\Debug\SharpBot.exe
+C:\Users\SantiagoValle\source\repos\SharpBot\SharpBot\bin\Debug\SharpBot.pdb
+C:\Users\SantiagoValle\source\repos\SharpBot\SharpBot\obj\Debug\SharpBot.csprojAssemblyReference.cache
+C:\Users\SantiagoValle\source\repos\SharpBot\SharpBot\obj\Debug\SharpBot.MainForm.resources
+C:\Users\SantiagoValle\source\repos\SharpBot\SharpBot\obj\Debug\SharpBot.Properties.Resources.resources
+C:\Users\SantiagoValle\source\repos\SharpBot\SharpBot\obj\Debug\SharpBot.csproj.GenerateResource.cache
+C:\Users\SantiagoValle\source\repos\SharpBot\SharpBot\obj\Debug\SharpBot.csproj.CoreCompileInputs.cache
+C:\Users\SantiagoValle\source\repos\SharpBot\SharpBot\obj\Debug\SharpBot.exe
+C:\Users\SantiagoValle\source\repos\SharpBot\SharpBot\obj\Debug\SharpBot.pdb

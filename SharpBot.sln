@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpBot", "SharpBot\SharpBot.csproj", "{B7E10F27-D628-441D-B596-EE2E4044D8BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7E10F27-D628-441D-B596-EE2E4044D8BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7E10F27-D628-441D-B596-EE2E4044D8BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7E10F27-D628-441D-B596-EE2E4044D8BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7E10F27-D628-441D-B596-EE2E4044D8BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0993E2C-9D75-43B1-943F-49AC334990AD}
+	EndGlobalSection
+EndGlobal

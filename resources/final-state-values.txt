@@ -1,0 +1,27 @@
+000|Twitch|https://www.twitch.tv/|twitch
+001|Telemundo Deportes|https://www.telemundodeportes.com/en-vivo-extra|telemundodeportes
+002|Twitch|https://www.twitch.tv/|twitch
+010|Canal de guías de viaje|https://www.youtube.com/user/Expedia/videos|youtube
+011|Productos Tecnológicos|https://www.youtube.com/channel/UCVYamHliCI9rw1tHR1xbkfw|youtube
+012|Música en streaming|https://www.spotify.com/mx/|spotify
+020|Netflix|https://www.netflix.com/|netflix
+021|Google Play Películas|https://play.google.com/store/movies?hl=es_MX|googlepeliculas
+022|Amazon Prime Video|https://www.primevideo.com/|prime
+100|Google Scholar|https://scholar.google.es/schhp?hl=es|googlescholar
+101|NCBI|https://www.ncbi.nlm.nih.gov/|ncbi
+102|IBM Developer|https://www.ibm.com/developerworks/ssa/topics/|ibm
+110|Udemy|https://www.udemy.com/|udemy
+111|edX|https://www.edx.org/es|edx
+112|Masterclass|https://www.masterclass.com/|masterclass
+120|Ted Talks|https://www.ted.com/|ted
+121|IoT Tech Expo World Series|https://www.youtube.com/channel/UChR3yzRolfqg2d4xh7CHthg|youtube
+122|Talent Land|https://talent-network.org/|talent
+200|Canal de Gordon Ramsay|https://www.youtube.com/user/gordonramsay|youtube
+201|Canal de La Capital|https://www.youtube.com/channel/UCEwl20VxZ3AwOgiKMZtI1GQ|youtube
+202|Cocina Japonesa|https://www.youtube.com/channel/UCaYqbCfZIO_qYGgtQ9HmzSg|youtube
+210|Space.com|https://www.space.com/|space
+211|Videos de la NASA|https://www.nasa.gov/content/ultra-high-definition-video-gallery|nasa
+212|Imágenes de la NASA|https://www.nasa.gov/multimedia/imagegallery/index.html|nasa
+220|Canal de AthleanX|https://www.youtube.com/user/JDCav24|youtube
+221|Canal de Malova Elena|https://www.youtube.com/channel/UCb-ODDTys9PeeSyreyh___w|youtube
+222|Canal SELF|https://www.youtube.com/user/SelfMagazine/videos|youtube
